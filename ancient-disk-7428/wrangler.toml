@@ -1,0 +1,9 @@
+name = "demo-project"
+type = "javascript"  # or "webpack" if you're using Webpack
+
+account_id = "15b0ccd4c68c56b4231b01eb799d53e8"
+workers_dev = true  # Set this to false if deploying to a production environment
+compatibility_flags = []
+
+# Specify the path to your entry-point script
+main = "src/index.js"  # Adjust the path to your main Worker file
