@@ -6,4 +6,4 @@ workers_dev = true  # Set this to false if deploying to a production environment
 compatibility_flags = []
 
 # Specify the path to your entry-point script
-main = "src/index.js"  # Adjust the path to your main Worker file
+main = "./ancient-disk-7428/src/index.js"  # Adjust the path to your main Worker file
